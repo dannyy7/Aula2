@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+   
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade_HTML</title>
+</head>
+<body>
+    <h1>Paginas HTML</h1>
+
+    <h2>Introdução</h2>
+
+    <p>Elementos e Tags: No HTML, os elementos são os blocos de construção básicos de uma página web. Cada elemento é representado por tags, como para abrir e para fechar. Por exemplo, define um parágrafo e,fecha o parágrafo.</p>
+        
+    <p>Estrutura Básica: Toda página HTML começa com para indicar o tipo de documento e como o elemento raiz. Dentro do , temos para metadados (como título, links para estilos) e para o conteúdo visível da página.</p>
+
+    <h2>Conceitos</h2>
+
+    <p>Elementos e Tags: No HTML, os elementos são os blocos de construção básicos de uma página web. Cada elemento é representado por tags, como para abrir e para fechar. Por exemplo, define um parágrafo e fecha o parágrafo.</p>
+        
+    <p>Estrutura Básica: Toda página HTML começa com para indicar o tipo de documento e como o elemento raiz. Dentro do , temos para metadados (como título, links para estilos) e para o conteúdo visível da página.</p>
+
+    <P>Elementos e Tags: No HTML, os elementos são os blocos de construção básicos de uma página web. Cada elemento é representado por tags, como para abrir e para fechar. Por exemplo,
+
+        define um parágrafo e
+        fecha o parágrafo.
+        
+        Estrutura Básica: Toda página HTML começa com para indicar o tipo de documento e como o elemento raiz. Dentro do , temos para metadados (como título, links para estilos) e para o conteúdo visível da página.</P>
+    
+</body>
+</html>
